@@ -28,6 +28,12 @@ section {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
      
 }
+.github-link svg {
+    margin-right: 5px;
+    height: 32px;
+    width:32px ;
+}
+
 .contacto {
     background-color: #a7eb97;
     color: #222;
